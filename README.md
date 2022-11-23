@@ -7,3 +7,5 @@ Code to create tables in Rcode.R
 Tables in IXISDigitalTechTables.xlsx
 
 PowerPoint in IXIS Digital Technical Challenge.pdf
+
+~7 hrs for completion
